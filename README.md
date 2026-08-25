@@ -95,7 +95,6 @@ class Jaanya:
   </tr>
 </table>
 
-> 💡 *Add your repo links to the headings above once your READMEs/badges are ready — happy to wire those in.*
 
 <br/>
 
