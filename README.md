@@ -99,23 +99,6 @@ class Jaanya:
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=purrieie&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purrieie&layout=compact&theme=radical&hide_border=true" width="35%"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=purrieie&theme=radical&hide_border=true" width="70%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=purrieie&theme=radical&no-frame=true&row=1&column=6" width="90%"/>
-</div>
-
-<br/>
-
 ## 🐍 Contribution Snake
 
 <picture>
