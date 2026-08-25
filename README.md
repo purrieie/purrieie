@@ -18,7 +18,7 @@
 class Jaanya:
     def __init__(self):
         self.role        = "B.Tech CS Student @ VIT (2023 – 2027)"
-        self.current_job = "AI & Analytics Intern @ Gramax Cybertech"
+        self.current_job = "AI Product Intern @Troopod"
         self.builds      = ["OCULUS 🕵️ — Agentic AI Cyber Intel",
                              "Baymax 🏥 — Healthcare Assistant",
                              "RoadIQ 🛣️"]
